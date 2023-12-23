@@ -1,0 +1,18 @@
+header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ca1616;
+    color:#fafafa;
+}
+
+li{
+    display:inline-block;
+    margin:15px;
+    cursor: pointer;
+}
+
+.imgLogo{
+    width: 150px;
+    margin-top: 20px;
+}
